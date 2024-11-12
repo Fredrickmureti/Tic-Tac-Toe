@@ -22,6 +22,10 @@ const musicTracks = [
   '/music/tropical-summer-music-112842.mp3',
   '/music/subway-mirage-261477.mp3',
   '/music/sus-summer-fire-edm-226418.mp3',
+  '/music/happy-summer-116584.mp3',
+  '/music/summer-nights-217635.mp3',
+  '/music/summer-trip-116233.mp3',
+  '/music/summer-vibes-158665.mp3',
 ];
 
 let currentTrackIndex = 0;
